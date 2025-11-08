@@ -1,0 +1,17 @@
+{
+    "name": "mak/backendphp",
+    "description": "db class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mak\\Backendphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Kanaa",
+            "email": "alikanaa613@gmail.com"
+        }
+    ],
+    "require": {}
+}
