@@ -1,5 +1,5 @@
 <?php 
-namespace Mak\Backendphp;
+namespace Makdb\Backendphp;
 
 class db
 {
